@@ -1,7 +1,7 @@
 # Unlocking Behavioral Intelligence in Airline Loyalty Programs
 ## Technical Report — Canadian Airline Loyalty Cohort, 2012–2018
 
-**Prepared by:** Business Analytics Team  
+**Prepared by:** Omar Ahsan, Iqra Khan, Ojas Mishra  
 **Audience:** Chief Financial Officer · Chief Marketing Officer  
 **Data period:** January 2012 – November 2017 (prediction cutoff)  
 **Cohort size:** 11,076 active loyalty members
