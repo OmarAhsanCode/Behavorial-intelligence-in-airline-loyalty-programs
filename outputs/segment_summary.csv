@@ -1,0 +1,6 @@
+archetype,member_count,pct_of_total,mean_clv,total_clv,mean_churn_prob,pct_high_risk,clv_at_risk,mean_tenure_months,mean_flights_last_12m,mean_redemption_rate,dominant_card_tier,dominant_province
+Budget Explorers,4992,45.07,6734.83,33620286.9,0.1034,6.01,2020449.0,35.32,17.32,0.0193,Star,Ontario
+Crown Holders,2197,19.84,10622.22,23337024.94,0.1034,6.37,1487110.8,35.45,17.69,0.019,Aurora,Ontario
+Drifting Stars,113,1.02,6319.45,714097.94,0.9943,99.12,707778.4,55.5,0.0,0.0,Star,Ontario
+Ghost Members,151,1.36,10433.71,1575490.42,0.9995,100.0,1575490.21,55.52,0.0,0.0,Nova,Ontario
+Silent Investors,3623,32.71,7979.8,28910805.83,0.1156,6.51,1883232.8,35.56,17.59,0.0183,Nova,Ontario

@@ -1,0 +1,6 @@
+cluster_id,count,pct_of_total,mean_R,mean_F,mean_M,mean_E,mean_T,mean_CLV,mean_churn_prob,mean_BDS,mean_tenure_months,pct_high_risk,most_common_card,most_common_province
+0,3623,32.71,0.9902,0.2883,0.0841,0.0183,0.5,7979.8,0.1156,0.3555,35.56,6.51,Nova,Ontario
+1,4992,45.07,0.9899,0.284,0.0669,0.0193,0.0,6734.83,0.1034,0.3482,35.32,6.01,Star,Ontario
+2,2197,19.84,0.9895,0.29,0.1206,0.019,1.0,10622.22,0.1034,0.3542,35.45,6.37,Aurora,Ontario
+3,151,1.36,0.0,0.0,0.118,0.0,0.702,10433.71,0.9995,0.8429,55.52,100.0,Nova,Ontario
+4,113,1.02,0.0,0.0,0.0611,0.0,0.0,6319.45,0.9943,0.8412,55.5,99.12,Star,Ontario

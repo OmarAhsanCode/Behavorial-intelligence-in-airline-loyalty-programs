@@ -1,0 +1,7 @@
+[data-testid="stMetricValue"] { font-size: 2rem; font-weight: 600; }
+[data-testid="stMetricLabel"] { font-size: 0.85rem; color: #666; }
+.archetype-badge { padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 600; display: inline-block; }
+.risk-high { background: #FAECE7; color: #993C1D; }
+.risk-medium { background: #FAEEDA; color: #854F0B; }
+.risk-low { background: #E1F5EE; color: #0F6E56; }
+div[data-testid="stSidebar"] { background-color: #f8f9fa; }

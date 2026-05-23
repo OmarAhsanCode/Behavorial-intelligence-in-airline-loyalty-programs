@@ -1,0 +1,44 @@
+Feature Name,Source File,Computation Window
+months_since_last_flight,outputs/temporal_features.csv,Full Available History (Up to November 2017)
+months_since_last_redemption,outputs/temporal_features.csv,Full Available History (Up to November 2017)
+months_since_last_any_activity,outputs/temporal_features.csv,Full Available History (Up to November 2017)
+flights_last_3m,outputs/temporal_features.csv,Sep 2017 - Nov 2017 (Trailing 3 Months)
+flights_last_6m,outputs/temporal_features.csv,Jun 2017 - Nov 2017 (Trailing 6 Months)
+flights_last_12m,outputs/temporal_features.csv,Dec 2016 - Nov 2017 (Trailing 12 Months)
+active_months_last_12m,outputs/temporal_features.csv,Dec 2016 - Nov 2017 (Trailing 12 Months)
+zero_flight_months_last_12m,outputs/temporal_features.csv,Dec 2016 - Nov 2017 (Trailing 12 Months)
+flights_total_ever,outputs/temporal_features.csv,Full Available History (Up to November 2017)
+distance_last_12m,outputs/temporal_features.csv,Dec 2016 - Nov 2017 (Trailing 12 Months)
+points_accumulated_last_12m,outputs/temporal_features.csv,Dec 2016 - Nov 2017 (Trailing 12 Months)
+points_redeemed_last_12m,outputs/temporal_features.csv,Dec 2016 - Nov 2017 (Trailing 12 Months)
+dollar_redeemed_last_12m,outputs/temporal_features.csv,Dec 2016 - Nov 2017 (Trailing 12 Months)
+points_accumulated_total,outputs/temporal_features.csv,Full Available History (Up to November 2017)
+points_redeemed_total,outputs/temporal_features.csv,Full Available History (Up to November 2017)
+redemption_rate,outputs/temporal_features.csv,Full Available History (Up to November 2017)
+flight_trend_ratio,outputs/temporal_features.csv,Sep 2017 - Nov 2017 (Trailing 3 Months)
+points_trend_ratio,outputs/temporal_features.csv,Sep 2017 - Nov 2017 (Trailing 3 Months)
+distance_per_flight,outputs/temporal_features.csv,Dec 2016 - Nov 2017 (Trailing 12 Months)
+pref_season,outputs/temporal_features.csv,Full Available History (Up to November 2017)
+flew_in_winter,outputs/temporal_features.csv,Dec 2015 - Nov 2017 (Trailing 24 Months)
+flew_in_summer,outputs/temporal_features.csv,Dec 2015 - Nov 2017 (Trailing 24 Months)
+flew_in_spring,outputs/temporal_features.csv,Dec 2015 - Nov 2017 (Trailing 24 Months)
+flew_in_fall,outputs/temporal_features.csv,Dec 2015 - Nov 2017 (Trailing 24 Months)
+education_ordinal,outputs/demographic_features.csv,Static at Enrollment / Cutoff (Imputed)
+loyalty_card_ordinal,outputs/demographic_features.csv,Static at Enrollment / Cutoff (Imputed)
+is_married,outputs/demographic_features.csv,Static at Enrollment / Cutoff
+is_single,outputs/demographic_features.csv,Static at Enrollment / Cutoff
+is_male,outputs/demographic_features.csv,Static at Enrollment / Cutoff
+is_promo_enrollment,outputs/demographic_features.csv,Static at Enrollment / Cutoff
+tenure_months,outputs/demographic_features.csv,Calculated relative to November 2017
+salary_imputed,outputs/demographic_features.csv,Static at Enrollment / Cutoff (Imputed)
+province_Alberta,outputs/demographic_features.csv,Static at Enrollment / Cutoff
+province_British Columbia,outputs/demographic_features.csv,Static at Enrollment / Cutoff
+province_Manitoba,outputs/demographic_features.csv,Static at Enrollment / Cutoff
+province_New Brunswick,outputs/demographic_features.csv,Static at Enrollment / Cutoff
+province_Newfoundland,outputs/demographic_features.csv,Static at Enrollment / Cutoff
+province_Nova Scotia,outputs/demographic_features.csv,Static at Enrollment / Cutoff
+province_Ontario,outputs/demographic_features.csv,Static at Enrollment / Cutoff
+province_Prince Edward Island,outputs/demographic_features.csv,Static at Enrollment / Cutoff
+province_Quebec,outputs/demographic_features.csv,Static at Enrollment / Cutoff
+province_Saskatchewan,outputs/demographic_features.csv,Static at Enrollment / Cutoff
+province_Yukon,outputs/demographic_features.csv,Static at Enrollment / Cutoff

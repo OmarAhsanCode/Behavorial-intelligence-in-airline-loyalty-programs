@@ -1,0 +1,44 @@
+CLV
+months_since_last_flight
+months_since_last_redemption
+months_since_last_any_activity
+flights_last_3m
+flights_last_6m
+flights_last_12m
+active_months_last_12m
+zero_flight_months_last_12m
+flights_total_ever
+distance_last_12m
+points_accumulated_last_12m
+points_redeemed_last_12m
+dollar_redeemed_last_12m
+points_accumulated_total
+points_redeemed_total
+redemption_rate
+flight_trend_ratio
+points_trend_ratio
+distance_per_flight
+pref_season
+flew_in_winter
+flew_in_summer
+flew_in_spring
+flew_in_fall
+education_ordinal
+loyalty_card_ordinal
+is_married
+is_single
+is_male
+is_promo_enrollment
+tenure_months
+salary_imputed
+province_Alberta
+province_British Columbia
+province_Manitoba
+province_New Brunswick
+province_Newfoundland
+province_Nova Scotia
+province_Ontario
+province_Prince Edward Island
+province_Quebec
+province_Saskatchewan
+province_Yukon

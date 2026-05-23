@@ -1,0 +1,62 @@
+{
+  "Ghost Members": {
+    "risk_level": "Critical",
+    "trigger_condition": "No flight, redemption, or point accumulation activity in past 90+ days",
+    "channel": "Email + Direct Mail",
+    "offer_type": "Reactivation bonus \u2014 2,000 bonus points on next flight booked within 30 days",
+    "timing": "Send immediately upon trigger; follow up at day 14 if no booking",
+    "success_metric": "Flight booked within 30 days of campaign send",
+    "estimated_cost_per_member": 3.5,
+    "expected_reengagement_rate": 0.15,
+    "segment_size": 151,
+    "clv_at_risk_per_member": 10433.71
+  },
+  "Crown Holders": {
+    "risk_level": "Low",
+    "trigger_condition": "High-value Aurora member with low engagement in last 6 months",
+    "channel": "Personal Email",
+    "offer_type": "Upgrade experience offer (lounge access, priority boarding)",
+    "timing": "Send within 7 days of activity decline; quarterly touchpoint",
+    "success_metric": "Positive response or booking within 90 days of outreach",
+    "estimated_cost_per_member": 15.0,
+    "expected_reengagement_rate": 0.35,
+    "segment_size": 2197,
+    "clv_at_risk_per_member": 10622.22
+  },
+  "Drifting Stars": {
+    "risk_level": "High",
+    "trigger_condition": "Once frequent flyer with >50% decline in flight frequency in past 6 months",
+    "channel": "Email + Push",
+    "offer_type": "We miss you campaign with a time-limited double-miles offer on Fall season bookings",
+    "timing": "Send at start of historically preferred season (Fall)",
+    "success_metric": "Flight booked for Fall season within 45 days of campaign send",
+    "estimated_cost_per_member": 5.0,
+    "expected_reengagement_rate": 0.22,
+    "segment_size": 113,
+    "clv_at_risk_per_member": 6319.45
+  },
+  "Silent Investors": {
+    "risk_level": "Low",
+    "trigger_condition": "Accumulated points balance above 25,000 with zero redemptions in past 12 months",
+    "channel": "Email",
+    "offer_type": "Redemption nudge \u2014 personalized point balance email with curated redemption options",
+    "timing": "Send monthly statement email with clear call-to-action to redeem points",
+    "success_metric": "Points redemption within 60 days of email send",
+    "estimated_cost_per_member": 2.5,
+    "expected_reengagement_rate": 0.28,
+    "segment_size": 3623,
+    "clv_at_risk_per_member": 7979.8
+  },
+  "Budget Explorers": {
+    "risk_level": "Low",
+    "trigger_condition": "Nova/Star tier member with stable low-frequency booking pattern",
+    "channel": "Email only",
+    "offer_type": "Partner reward offer (hotel, car rental discount)",
+    "timing": "Send during off-peak periods (January/February) to stimulate partner activity",
+    "success_metric": "Partner offer redemption within 60 days of send",
+    "estimated_cost_per_member": 1.5,
+    "expected_reengagement_rate": 0.18,
+    "segment_size": 4992,
+    "clv_at_risk_per_member": 6734.83
+  }
+}
