@@ -1,4 +1,5 @@
 # Unlocking Behavioral Intelligence in Airline Loyalty Programs
+https://behavorial-intelligence-ml.streamlit.app/
 ## Technical Report — Canadian Airline Loyalty Cohort, 2012–2018
 
 **Prepared by:** Omar Ahsan, Iqra Khan, Ojas Mishra  
